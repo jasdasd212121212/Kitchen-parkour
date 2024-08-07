@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb4847bcba6e831418168b60b91f845a, type: 3}
+  m_Name: AcceptPrivacy
+  m_EditorClassIdentifier: 
+  _actionName: eventAccept
+  _handlerPrefab: {fileID: 7896272564361941196, guid: 4eea152a40c66ea4bae279e79d02d027, type: 3}

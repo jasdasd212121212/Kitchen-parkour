@@ -1,0 +1,1 @@
+public interface IOption : IOptionLoadeble, IOptionSaveble{}

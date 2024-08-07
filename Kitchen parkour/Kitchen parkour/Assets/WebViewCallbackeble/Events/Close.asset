@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb4847bcba6e831418168b60b91f845a, type: 3}
+  m_Name: Close
+  m_EditorClassIdentifier: 
+  _actionName: CloseWBV
+  _handlerPrefab: {fileID: 164616576154498635, guid: 14e0def207b8c0b42a29d79c3ab69d6d, type: 3}

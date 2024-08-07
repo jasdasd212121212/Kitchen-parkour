@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee6376d0e5c059549addec2249ad97c3, type: 3}
+  m_Name: Level_9
+  m_EditorClassIdentifier: 
+  _levelObjects:
+  - _propGameObject: {fileID: 6033327198920687722, guid: 81f01ac7a230eb9449fdd6092e625d9f, type: 3}
+    _distanceInterval: 0
+  - _propGameObject: {fileID: 6033327198920687722, guid: 81f01ac7a230eb9449fdd6092e625d9f, type: 3}
+    _distanceInterval: 5
+  - _propGameObject: {fileID: 6033327198920687722, guid: 81f01ac7a230eb9449fdd6092e625d9f, type: 3}
+    _distanceInterval: 5
+  - _propGameObject: {fileID: 6033327198920687722, guid: 81f01ac7a230eb9449fdd6092e625d9f, type: 3}
+    _distanceInterval: 5
+  - _propGameObject: {fileID: 6033327198920687722, guid: ce5904d70ef99ee4486b965494c45b02, type: 3}
+    _distanceInterval: 7
+  - _propGameObject: {fileID: 6033327198920687722, guid: ce5904d70ef99ee4486b965494c45b02, type: 3}
+    _distanceInterval: 8
+  - _propGameObject: {fileID: 6033327198920687722, guid: ce5904d70ef99ee4486b965494c45b02, type: 3}
+    _distanceInterval: 9
+  - _propGameObject: {fileID: 6033327198920687722, guid: ce5904d70ef99ee4486b965494c45b02, type: 3}
+    _distanceInterval: 10
+  - _propGameObject: {fileID: 6033327198920687722, guid: ce5904d70ef99ee4486b965494c45b02, type: 3}
+    _distanceInterval: 13
+  - _propGameObject: {fileID: 6033327198920687722, guid: ce5904d70ef99ee4486b965494c45b02, type: 3}
+    _distanceInterval: 15
+  - _propGameObject: {fileID: 2842858139743844047, guid: 20b2bcc4751afc84eae144613366316c, type: 3}
+    _distanceInterval: 7
+  - _propGameObject: {fileID: 2842858139743844047, guid: 20b2bcc4751afc84eae144613366316c, type: 3}
+    _distanceInterval: 4
+  - _propGameObject: {fileID: 2842858139743844047, guid: 20b2bcc4751afc84eae144613366316c, type: 3}
+    _distanceInterval: 4
+  - _propGameObject: {fileID: 2842858139743844047, guid: 20b2bcc4751afc84eae144613366316c, type: 3}
+    _distanceInterval: 4
+  - _propGameObject: {fileID: 2842858139743844047, guid: 20b2bcc4751afc84eae144613366316c, type: 3}
+    _distanceInterval: 4
+  - _propGameObject: {fileID: 867867193286029567, guid: c95f4b1e88adcae4aa527871caffb4bb, type: 3}
+    _distanceInterval: 7
+  - _propGameObject: {fileID: 867867193286029567, guid: c95f4b1e88adcae4aa527871caffb4bb, type: 3}
+    _distanceInterval: 7
+  - _propGameObject: {fileID: 2105794988260676790, guid: 9bd72c09c7e9fde41863d90571c84158, type: 3}
+    _distanceInterval: 10
+  - _propGameObject: {fileID: 6033327198920687722, guid: ce5904d70ef99ee4486b965494c45b02, type: 3}
+    _distanceInterval: 10
+  - _propGameObject: {fileID: 2105794988260676790, guid: 9bd72c09c7e9fde41863d90571c84158, type: 3}
+    _distanceInterval: 10
+  - _propGameObject: {fileID: 2105794988260676790, guid: 9bd72c09c7e9fde41863d90571c84158, type: 3}
+    _distanceInterval: 10
+  - _propGameObject: {fileID: 2105794988260676790, guid: 9bd72c09c7e9fde41863d90571c84158, type: 3}
+    _distanceInterval: 10
+  - _propGameObject: {fileID: 6473842378389804087, guid: df0d9a0d2baab884fbd98cf5b7593adf, type: 3}
+    _distanceInterval: 7
+  - _propGameObject: {fileID: 6473842378389804087, guid: df0d9a0d2baab884fbd98cf5b7593adf, type: 3}
+    _distanceInterval: 7
+  - _propGameObject: {fileID: 8652749087549774663, guid: dd2c1508b5d741d4c97f9c216e3a9b92, type: 3}
+    _distanceInterval: 7
